@@ -17,6 +17,8 @@ Line 35: Added id="search-engine-optimization" so the SEO nav button would prope
 
 Line 37,44,51,61,68,75: added "alt" after image files to define images. We left alt descriptions blank where no explanation was necessary.
 
+Line 39,46: added <br/>element to break up <h2> titles.
+
 Line 80,85: Updated div element with footer class to a footer element. This section is called the footer and does not need to be made into a class. 
 
 
@@ -29,5 +31,9 @@ Line 23: changed .seo to span to reflect updated html.
 Line 28,36,40: Updated div element to nav to reflect updated html.
 
 Line 46: Updated to "nav a" element so the styling would not affect all "a" elements if more were to be added.
+
+Line 81-99: consolidated the content section and moved to fit sequential order
+
+Line 112-128: consolidated benefits CSS styles so its less redundant.
 
 Line 192,200: Updated footer class to a footer element to reflect updated html.
