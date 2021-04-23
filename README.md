@@ -13,6 +13,10 @@ Line 17 & 29: Changed div element to nav to clarify that this part is covering t
 
 Line 32,33,55,56,78: Updated div elements to sections to differtiate parent from child elements and help with organization. 
 
+Line 35: Added id="search-engine-optimization" so the SEO nav button would properly function. 
+
+Line 37,44,51,61,68,75: added "alt" after image files to define images. We left alt descriptions blank where no explanation was necessary.
+
 Line 80,85: Updated div element with footer class to a footer element. This section is called the footer and does not need to be made into a class. 
 
 
@@ -23,5 +27,7 @@ Updated all the header CSS so that it accuratly affects the newly defined header
 Line 23: changed .seo to span to reflect updated html.
 
 Line 28,36,40: Updated div element to nav to reflect updated html.
+
+Line 46: Updated to "nav a" element so the styling would not affect all "a" elements if more were to be added.
 
 Line 192,200: Updated footer class to a footer element to reflect updated html.

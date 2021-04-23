@@ -42,13 +42,15 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
+/* include nav element so not all a elements will be effected*/
+nav a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Updated to .content .benefits p anbd increased font size */
 p {
-    font-size: 16px;
+    font-size: 24px;
 }
 
 .hero {
