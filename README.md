@@ -1,16 +1,18 @@
 # Code Refactor Starter Code
 
-Live URL: https://nmihaly.github.io/Horiseon/
+**Live URL:** https://nmihaly.github.io/Horiseon/
 
-Screen shots:
+**Screen shots:**
 ![Horiseon top](https://user-images.githubusercontent.com/80426878/116023334-c299c400-a600-11eb-8f8c-1fb383f64041.png)
 ![Horiseon middle](https://user-images.githubusercontent.com/80426878/116023349-c88fa500-a600-11eb-8bc4-84e0c33569ad.png)
 ![Horiseon bottom](https://user-images.githubusercontent.com/80426878/116023399-de04cf00-a600-11eb-823d-8bd3c876667d.png)
 
-Description: 
+**Description: **
+
 Reviewed HTML and CSS code. Most code worked well with some exceptions such as the search engine optimization link in the navigation tab not jumping to that section lower in the page. Some HTML elements were too broad and needed classes to simplify the code. There were a lot of repetitive unnecessary code in the CSS which have since been consolidated. Please review the below specific changes made for a concrete clarification of the changes made. 
 
-HTML Changes:
+**HTML Changes:**
+
 Line 8: 
 Updated Title description so that the web browser page will read "Horiseon main page" instead of "website". This change will improve visually impaired users accessability by reading out the specific description of the web page they are visiting. 
 
@@ -33,9 +35,9 @@ Line 39,46: added <br/>element to break up <h2> titles.
 Line 80,85: Updated div element with footer class to a footer element. This section is called the footer and does not need to be made into a class. 
 
 
-CSS Changes:
-Line 11,18,23,27,35,39: 
-Updated all the header CSS so that it accuratly affects the newly defined header element by removing the . before each header css element.
+**CSS Changes:**
+
+Line 11,18,23,27,35,39: Updated all the header CSS so that it accuratly affects the newly defined header element by removing the . before each header css element.
 
 Line 23: changed .seo to span to reflect updated html.
 
