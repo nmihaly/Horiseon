@@ -16,11 +16,9 @@ Reviewed HTML and CSS code. Most code worked well with some exceptions such as t
 Line 8: 
 Updated Title description so that the web browser page will read "Horiseon main page" instead of "website". This change will improve visually impaired users accessability by reading out the specific description of the web page they are visiting. 
 
-Line 13 & 28: 
-Changed the header class into a header element as the covers only 1 section and does not need to be a class to distinguish it from others. Changing the header to an element makes the html look cleaner removing unnecessary classification. 
+Line 13 & 28: Changed the header class into a header element as the covers only 1 section and does not need to be a class to distinguish it from others. Changing the header to an element makes the html look cleaner removing unnecessary classification. 
 
-Line 15:
-Deleted the seo class as it is already classified under the span element.
+Line 15: Deleted the seo class as it is already classified under the span element.
 
 Line 17 & 29: Changed div element to nav to clarify that this part is covering the navigation box of the website. 
 
