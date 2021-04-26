@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
+
 Live URL: https://nmihaly.github.io/Horiseon/
+
 Screen shots:
 ![Horiseon top](https://user-images.githubusercontent.com/80426878/116023334-c299c400-a600-11eb-8f8c-1fb383f64041.png)
 ![Horiseon middle](https://user-images.githubusercontent.com/80426878/116023349-c88fa500-a600-11eb-8bc4-84e0c33569ad.png)
